@@ -1,0 +1,7 @@
+{
+  "latest_version": "1.2.7",
+  "download_url": "https://github.com/ahub1977/aiq-phoenix-tech-update/releases/download/v1.2.7/AiQ_Phoenix_Tech_Setup_v1.2.7_Tester.exe",
+  "release_notes": "v1.2.7 - Fixed incremental backup verification, Fleet Dashboard improvements",
+  "release_date": "2026-05-14",
+  "min_version": "1.0.0"
+}
