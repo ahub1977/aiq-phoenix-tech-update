@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.4.25",
+  "latest_version": "1.4.26",
   "release_date": "2026-07-06",
-  "release_notes": "Phoenix Tech v1.4.25",
-  "download_url": "https://github.com/ahub1977/aiq-phoenix-tech-update/releases/download/v1.4.25/AiQ_Phoenix_Tech_Setup_v1.4.25.exe",
-  "checksum": "2b1b11f4910146f44d781d84687b24972afb180831304c9741acfa866863e3c3",
+  "release_notes": "Phoenix Tech v1.4.26",
+  "download_url": "https://github.com/ahub1977/aiq-phoenix-tech-update/releases/download/v1.4.26/AiQ_Phoenix_Tech_Setup_v1.4.26.exe",
+  "checksum": "ac5946222f71a081f7613a4dfecde59f0f70ce0ee4feea969b1bc08fe60ace6c",
   "minimum_version": "1.0.0"
 }
